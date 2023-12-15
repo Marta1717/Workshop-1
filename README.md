@@ -1,2 +1,2 @@
 # Workshop-1
-Consloe program for managing tasks
+Console program for managing tasks
